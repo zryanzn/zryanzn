@@ -4,7 +4,7 @@
   <h1>Software Engineer</h1>
 
   <div>
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zryanzn&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="V01demort github stats" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzn&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zryanzn&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="github stats" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzn&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" />
   </div>
 
   <h2>Social</h2>
