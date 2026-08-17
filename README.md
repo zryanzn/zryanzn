@@ -1,10 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4946ff&height=120&section=header"/>
 
 <div align="center">
-  <h1>Software Engineer</h1>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Software+Engineer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    </a>
+  </div>
 
   <div>
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zryanzn&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="github stats" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryanzn&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" />
+    <img height="195" src="https://github-stats-extended.vercel.app/api?username=zryanzn&show_icons=true&count_private=true&hide_border=true&title_color=4946ff&icon_color=4946ff&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="github stats" /> <img       height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zryanzn&layout=compact&hide_border=true&title_color=4946ff&text_color=4946ff&bg_color=0d1117" />
   </div>
 
   <h2>Social</h2>
