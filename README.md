@@ -1,11 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4946ff&height=120&section=header"/>
 
 <div align="center">
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Software+Engineer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-    </a>
-  </div>
+  <h1>Software Engineer</h1>
 
   <div>
     <img height="195" border="" src="https://github-stats-extended.vercel.app/api?username=zryanzn&show_icons=true&include_all_commits=true&theme=github_dark" alt="github stats" /> 
